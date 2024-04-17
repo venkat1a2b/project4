@@ -1,0 +1,32 @@
+  .heading
+  {
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+  }
+  .heading_div
+  {
+    float: none;
+    width: 70%;
+    font-size: 20px;
+    padding: 20px;
+    background: white ; 
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px grey;
+  }
+  .heading_div2
+  {
+    font-size: 18px ;
+    width: 88%;
+  }
+  
+Canvas
+{
+  border: 7px solid chartreuse;
+  border-radius: 40px;
+  box-shadow: 7px 7px 7px olivedrab;
+  margin-top: 150px;
+  margin-left: 150px;
+}
